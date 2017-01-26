@@ -1,0 +1,2 @@
+ls ; clear; echo 'Haha! You gave me access to your computer with sudo!'; echo -ne 'h4cking ## (10%)\r'; sleep 0.3; echo -ne 'h4cking ### (20%)\r'; sleep 0.3; echo -ne 'h4cking ##### (33%)\r'; sleep 0.3; echo -ne 'h4cking ####### (40%)\r'; sleep 0.3; echo -ne 'h4cking ########## (50%)\r'; sleep 0.3; echo -ne 'h4cking ############# (66%)\r'; sleep 0.3; echo -ne 'h4cking ##################### (99%)\r'; sleep 0.3; echo -ne 'h4cking ####################### (100%)\r'; echo -ne '\n'; echo 'Hacking complete.'; echo 'Use GUI interface using visual basic to track my IP'
+ls -lat 
